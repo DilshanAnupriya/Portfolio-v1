@@ -14,8 +14,10 @@ const App = () => {
           <About/>
           <Experience/>
           <Tech/>
+          <div className="bg-custom-gradient min-h-screen">
           <Works/>
-          <div className="relative z-0">
+          </div>
+          <div className="relative z-0 bg-black">
             <Contact/>
             <StarsCanvas/>
           </div>

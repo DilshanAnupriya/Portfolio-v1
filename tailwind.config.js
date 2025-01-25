@@ -1,4 +1,3 @@
-
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: ["./src/**/*.{js,jsx}"],
@@ -21,6 +20,7 @@ module.exports = {
       },
       backgroundImage: {
         "hero-pattern": "url('/src/assets/herobg.png')",
+        "custom-gradient": "linear-gradient(to bottom, rgba(5,8,22,1) 28%, rgba(0,0,0,1) 100%)", // Changed to top to bottom
       },
     },
   },
