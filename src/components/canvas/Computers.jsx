@@ -7,7 +7,10 @@ import { i } from "framer-motion/client";
 const Computers = ({isMobile}) => {
 
   const computor = useGLTF('./desktop_pc/scene.gltf');
-  // const computor = useGLTF('./gaming_desktop_pc/scene.gltf');
+  //const computor = useGLTF('./gaming_desktop_pc/scene.gltf');
+  //  const computor = useGLTF('./imac_computer/scene.gltf');
+ // const computor = useGLTF('./cavallo_purosangue/scene.gltf');
+   //const computor = useGLTF('./medieval_house_stylized/scene.gltf');
 
   return (
     <mesh>

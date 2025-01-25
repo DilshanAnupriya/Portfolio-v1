@@ -1,0 +1,11 @@
+Model Information:
+* title:	Medieval House Stylized
+* source:	https://sketchfab.com/3d-models/medieval-house-stylized-694bd2b56188435091e3463d40345206
+* author:	MorganArt3D (https://sketchfab.com/MorganArt3D)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Medieval House Stylized" (https://sketchfab.com/3d-models/medieval-house-stylized-694bd2b56188435091e3463d40345206) by MorganArt3D (https://sketchfab.com/MorganArt3D) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
